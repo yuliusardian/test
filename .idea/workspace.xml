@@ -58,7 +58,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.docs/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../var/www/app-nutriclub/phase1" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -83,7 +83,7 @@
       <workItem from="1605181931043" duration="17574000" />
       <workItem from="1605273284906" duration="9397000" />
       <workItem from="1605441413267" duration="9299000" />
-      <workItem from="1605451931676" duration="2528000" />
+      <workItem from="1605451931676" duration="2651000" />
     </task>
     <servers />
   </component>
@@ -103,6 +103,10 @@
       <screen x="0" y="27" width="1366" height="705" />
     </state>
     <state x="416" y="137" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.27.1366.705@0.27.1366.705" timestamp="1605450144387" />
+    <state x="466" y="137" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605454476849">
+      <screen x="0" y="27" width="1366" height="705" />
+    </state>
+    <state x="466" y="137" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.705@0.27.1366.705" timestamp="1605454476849" />
     <state x="403" y="143" width="617" height="589" key="NewPhpClassDialog" timestamp="1605450302648">
       <screen x="0" y="27" width="1366" height="705" />
     </state>
